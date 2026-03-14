@@ -6,7 +6,7 @@
 
 ## Demo
 
-![Identity Builder Demo](assets/demo.gif)
+![Identity Builder Demo](assets/Demo.gif)
 
 ---
 
