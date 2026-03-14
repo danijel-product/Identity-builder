@@ -1,0 +1,65 @@
+{
+  "size": {
+    "titleHeight": 34,
+    "buttonHeight": 70,
+    "buttonWidth": 264,
+    "ctaButtonHeight": 54,
+    "cardWidth": 376,
+    "inputWidth": 296,
+    "inputHeight": 43,
+    "icon": 24,
+    "iconFrame": 44
+  },
+
+  "spacing": {
+    "xs": 8,
+    "s": 16,
+    "md": 24,
+    "lg": 32,
+    "xlg": 64,
+    "xxlg": 72,
+    "xxxl": 136
+  },
+
+  "radius": {
+    "primary": 12,
+    "ctaButton": 24
+  },
+
+  "colors": {
+    "primary": "#69D55B",
+    "background": "#DCFFD8",
+    "ctaButton": "#FF963A",
+    "black": "#000000",
+    "white": "#FFFFFF"
+  },
+
+  "shadow": {
+    "navigation": {
+      "shadowColor": "#000000",
+      "shadowOffset": { "width": 0, "height": 0 },
+      "shadowOpacity": 0.25,
+      "shadowRadius": 25,
+      "elevation": 8
+    }
+  },
+
+  "typography": {
+    "title": {
+      "fontSize": 48,
+      "fontWeight": "700"
+    },
+    "button": {
+      "fontSize": 32,
+      "fontWeight": "600"
+    },
+    "card": {
+      "fontSize": 24,
+      "fontWeight": "500"
+    },
+    "body": {
+      "fontSize": 16,
+      "fontWeight": "400"
+    }
+  }
+}
